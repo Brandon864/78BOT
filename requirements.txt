@@ -1,0 +1,9 @@
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+numpy==1.24.3
+pandas==2.0.3
+ta==0.10.2
+pillow==10.0.0
+keyboard==0.13.5
+python-dotenv==1.0.0
+schedule==1.2.0
