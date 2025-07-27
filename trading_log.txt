@@ -165,3 +165,10 @@
 2025-07-27 21:50:02,129 - INFO - Trading not allowed. Waiting...
 2025-07-27 21:50:12,129 - INFO - Outside trading hours
 2025-07-27 21:50:12,129 - INFO - Trading not allowed. Waiting...
+2025-07-27 21:50:14,219 - INFO - Bot stopped by user
+2025-07-27 21:50:14,219 - INFO - === FINAL SUMMARY ===
+2025-07-27 21:50:14,219 - INFO - Trades placed: 0
+2025-07-27 21:50:14,219 - INFO - Wins: 0
+2025-07-27 21:50:14,219 - INFO - Losses: 0
+2025-07-27 21:50:14,219 - INFO - Final balance: $100.00
+2025-07-27 21:50:14,219 - INFO - Final trade amount: $1.00
